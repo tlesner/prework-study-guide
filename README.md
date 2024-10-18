@@ -28,7 +28,7 @@ Each section contains a short set of notes and tips on the corresponding file.
 
 ## Credits
 
-N/a
+N/A
 
 ## License
 
